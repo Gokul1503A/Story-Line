@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FDF1D10E-8A62-4B9E-B4CD-FE33E722D946"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA707D90-0CC0-4F4D-A470-22B6AFC8C360"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Story line -  pov you&apos;re the hero/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "choiceMade(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E76D6A7-BFA7-4324-8217-72A4BE5F681A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Story line -  pov you&apos;re the hero/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2E76D6A7-BFA7-4324-8217-72A4BE5F681A - 8546ef934f689d9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Story_line____pov_you_re_the_hero.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Story line -  pov you&apos;re the hero"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koppolagokulsai/ios%20dev%20local/Story%20line%20-%20%20pov%20you&apos;re%20the%20hero/Story%20line%20-%20%20pov%20you&apos;re%20the%20hero/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "2E76D6A7-BFA7-4324-8217-72A4BE5F681A - 8546ef934f689d9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Story_line____pov_you_re_the_hero.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Story line -  pov you&apos;re the hero"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koppolagokulsai/ios%20dev%20local/Story%20line%20-%20%20pov%20you&apos;re%20the%20hero/Story%20line%20-%20%20pov%20you&apos;re%20the%20hero/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
